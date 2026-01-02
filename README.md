@@ -19,3 +19,8 @@ The goal is to explore factors affecting student scores and gain insights using 
 - Matplotlib
 
 ## Project Structure
+student-marks-analysis/
+├── student_marks.csv        # Large student performance dataset
+├── src/
+│   └── analysis.py          # Python analysis and visualization
+└── README.md                # Project documentation
