@@ -1,14 +1,21 @@
 # Student Marks Analysis 📊
 
-This project analyzes student academic performance using Python.
+## Overview
+This project performs an in-depth analysis of student academic performance using a real-world dataset.  
+The goal is to explore factors affecting student scores and gain insights using data analysis techniques.
 
-## Features
-- Handles missing data
-- Calculates average marks
-- Classifies student performance
-- Visualizes results
+## Dataset
+- Source: Student Performance Dataset
+- Records: 1000+ students
+- Features include:
+  - Gender
+  - Parental education
+  - Test preparation course
+  - Math, reading, and writing scores
 
-## Technologies
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
+
+## Project Structure
